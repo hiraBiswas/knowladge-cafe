@@ -1,0 +1,47 @@
+[
+  {
+    "ID": "123456789",
+    "Cover Image": "https://example.com/cover1.jpg",
+    "Author": "John Doe",
+    "Author Image": "https://example.com/author1.jpg",
+    "Posted Date": "September 11, 2023",
+    "Reading Time": 10,
+    "Hashtag": "#FakeData #LoremIpsum #RandomStuff"
+  },
+  {
+    "ID": "987654321",
+    "Cover Image": "https://example.com/cover2.jpg",
+    "Author": "Jane Smith",
+    "Author Image": "https://example.com/author2.jpg",
+    "Posted Date": "September 12, 2023",
+    "Reading Time": 15,
+    "Hashtag": "#SamplePost #DataGeneration #Test"
+  },
+  {
+    "ID": "456123789",
+    "Cover Image": "https://example.com/cover3.jpg",
+    "Author": "Alice Johnson",
+    "Author Image": "https://example.com/author3.jpg",
+    "Posted Date": "September 13, 2023",
+    "Reading Time": 8,
+    "Hashtag": "#Fiction #Adventure #Books"
+  },
+  {
+    "ID": "789123456",
+    "Cover Image": "https://example.com/cover4.jpg",
+    "Author": "David Brown",
+    "Author Image": "https://example.com/author4.jpg",
+    "Posted Date": "September 14, 2023",
+    "Reading Time": 12,
+    "Hashtag": "#TechNews #Innovation #Updates"
+  },
+  {
+    "ID": "654789321",
+    "Cover Image": "https://example.com/cover5.jpg",
+    "Author": "Emily Green",
+    "Author Image": "https://example.com/author5.jpg",
+    "Posted Date": "September 15, 2023",
+    "Reading Time": 7,
+    "Hashtag": "#Travel #Explore #Adventure"
+  }
+]
